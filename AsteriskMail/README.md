@@ -1,7 +1,7 @@
 ## asteriskmail.py 
 
 
-**lsasteriskmail.py** es una herramienta educativa que anonimiza direcciones de correo electrónico en un fichero de texto reemplazando caracteres con asteriscos. Útil para informes de ciberseguridad, no debe usarse en entornos de producción.
+**asteriskmail.py** es una herramienta educativa que anonimiza direcciones de correo electrónico en un fichero de texto reemplazando caracteres con asteriscos. Útil para informes de ciberseguridad, no debe usarse en entornos de producción.
 
 ---
 ### Uso: 
