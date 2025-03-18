@@ -1,4 +1,4 @@
-## CECIBERSEGURIDAD  
+## CECiberseguridad  
 
 
  Algunas utilidades en programación *rápida y sucia* **con AI** para hacer los 
